@@ -1,0 +1,8 @@
+amiga_model=A1200
+chipset=aga
+cpu_type=68020
+cpu_speed=cycle_exact
+chipmem_size=2
+fastmem_size=8
+kickstart_rom_file=~/amiga/roms/kick31_1200.rom
+ntsc=false
