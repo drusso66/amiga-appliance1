@@ -1,0 +1,9 @@
+amiga_model=CD32
+chipset=aga
+cpu_type=68020
+cpu_speed=cycle_exact
+chipmem_size=2
+fastmem_size=8
+kickstart_rom_file=~/amiga/roms/kick31_cd32.rom
+ntsc=false
+cd32cd=1
