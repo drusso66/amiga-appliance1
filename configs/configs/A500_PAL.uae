@@ -1,0 +1,8 @@
+amiga_model=A500
+chipset=ocs
+cpu_type=68000
+cpu_speed=cycle_exact
+chipmem_size=512
+slowmem_size=512
+kickstart_rom_file=~/amiga/roms/kick13_a500.rom
+ntsc=false
